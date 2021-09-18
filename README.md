@@ -1,1 +1,1 @@
-# JS-Rocket
+This is just a Simple Rocket Launch Sequence App made in HTML5, CSS3 and Pure JavaScript.
